@@ -1,0 +1,13 @@
+{
+  "user": [
+    {"username": "mohit", "password": "mohit.1234", "mobile": "9782000000" },
+    {"username": "akshita", "password": "akshita.1234", "mobile": "8947000000" },
+    {"username": "mm", "password": "mm", "mobile": "7737000000" }
+  ],
+  "events": [
+    {"name": "abc","venue": "delhi","ticket": 200,"status": "live","duration": "3hr"},
+    {"name": "efg","venue": "pune","ticket": 200,"status": "live","duration": "3hr"},
+    {"name": "hij","venue": "jaipur","ticket": 200,"status": "live","duration": "3hr"},
+    {"name": "klm","venue": "mumbai","ticket": 200,"status": "live","duration": "3hr"}
+  ]
+}
